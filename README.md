@@ -1,9 +1,9 @@
-What Truverse Mini App is
+What Anilora Mini App is
 
-  a shop, play, watch, and listen app
+  your personal nature pokédex
 
 Tech stack
-  telegram bot-father, launch params, GameFi for Game Blockchain, Telegram Connect for DeFi
+  thebrain, launch params, telegram
 
 How to run locally
   run ____
